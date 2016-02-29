@@ -1,7 +1,7 @@
 name: My Shoreditch
 favicon: null
 layout_spectrum: 0.8351254
-typography_spectrum: 0.1433692
+typography_spectrum: 0.48776
 collections:
   - index:
       path: /
