@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1433692
 color:
-  saturation: 1
-  brandStrength: 0.3728709
+  saturation: 0.6863799
+  brandStrength: 1
   lightness: 1
-  rhythmicContrast: 1
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-typography_spectrum: 0.1433692
+  rhythmicContrast: 0.5376344
+layout_spectrum: 1
 name: My Shoreditch
