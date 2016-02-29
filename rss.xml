@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My Shoreditch]]></title>
         <description><![CDATA[My Shoreditch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-shoreditch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 12:27:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 13:17:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-shoreditch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CHYPS plus - support for young people.]]></title>
+            <description><![CDATA[<article><h1>CHYPS plus - support for young people.</h1><p>Puberty is the time in your life when you change from a child to an adult. Your body changes, your emotions change and if you're a guy your voice changes too. No wonder sometimes it feels like a never ending struggle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7b32a614251933d00c589f7229d8b102b926819.jpg"></article>]]></description>
+            <link>http://www.chypsplus.nhs.uk/</link>
+            <guid isPermaLink="false">6aff7d07-4062-45a9-bcd6-27a873059edb</guid>
+            <pubDate>Mon, 29 Feb 2016 13:16:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We love the Hoxton Trust who provide community help and support to the residents of Hoxton and Shoreditch. Pay a visit to their relaxing garden in Hoxton Street sometime.]]></title>
-            <description><![CDATA[<article><h1>We love the Hoxton Trust who provide community help and support to the residents of Hoxton and Shoreditch. Pay a visit to their relaxing garden in Hoxton Street sometime.</h1><p>Registered Charity Number: 289423 / Registered Company Limited By Guarantee Number: 1659324 The Hoxton Trust Copyright 2015 Welcome to The Hoxton Trust The Hoxton Trust works to build the skills, knowledge and confidence of our community so that together we can make Hoxton, Hackney and beyond a better place to live.</p><img src="http://www.hoxtontrust.org/communities/7/004/012/344/877/previews/rldGh2K8hD162Ptbpog7gw.jpg"></article>]]></description>
-            <link>undefinedwe-love-the-hoxton-trust-who-provide-community-help-and-supp/index.html</link>
+            <description><![CDATA[<article><h1>We love the Hoxton Trust who provide community help and support to the residents of Hoxton and Shoreditch. Pay a visit to their relaxing garden in Hoxton Street sometime.</h1><p>Registered Charity Number: 289423 / Registered Company Limited By Guarantee Number: 1659324 The Hoxton Trust Copyright 2015 Welcome to The Hoxton Trust The Hoxton Trust works to build the skills, knowledge and confidence of our community so that together we can make Hoxton, Hackney and beyond a better place to live.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77751b9edcf04308a2251242c0b3e29ab5a9ad4d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-shoreditch/we-love-the-hoxton-trust-who-provide-community-help-and-supp/index.html</link>
             <guid isPermaLink="false">ff60f521-68b4-408b-8c60-a34a856b1949</guid>
             <pubDate>Mon, 29 Feb 2016 12:27:07 GMT</pubDate>
         </item>
