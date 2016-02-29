@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[My Shoreditch]]></title>
-        <description><![CDATA[My Shoreditch]]></description>
+        <title><![CDATA[News - Culture - Community - Pictures]]></title>
+        <description><![CDATA[News - Culture - Community - Pictures]]></description>
         <link>https://thegrid.ai/my-shoreditch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 13:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 16:18:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-shoreditch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Archway café]]></title>
@@ -23,9 +23,9 @@
         <item>
             <title><![CDATA[We love the Hoxton Trust who provide community help and support to the residents of Hoxton and Shoreditch. Pay a visit to their relaxing garden in Hoxton Street sometime.]]></title>
             <description><![CDATA[<article><h1>We love the Hoxton Trust who provide community help and support to the residents of Hoxton and Shoreditch. Pay a visit to their relaxing garden in Hoxton Street sometime.</h1><p>Registered Charity Number: 289423 / Registered Company Limited By Guarantee Number: 1659324 The Hoxton Trust Copyright 2015 Welcome to The Hoxton Trust The Hoxton Trust works to build the skills, knowledge and confidence of our community so that together we can make Hoxton, Hackney and beyond a better place to live.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77751b9edcf04308a2251242c0b3e29ab5a9ad4d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/my-shoreditch/we-love-the-hoxton-trust-who-provide-community-help-and-supp/index.html</link>
+            <link>urn:uuid:e115cb74-aba9-4076-898c-e8c974d8ff02</link>
             <guid isPermaLink="false">ff60f521-68b4-408b-8c60-a34a856b1949</guid>
-            <pubDate>Mon, 29 Feb 2016 12:27:07 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 16:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
