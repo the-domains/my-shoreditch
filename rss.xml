@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[News - Culture - Community - Pictures]]></title>
         <description><![CDATA[News - Culture - Community - Pictures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-shoreditch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 23:42:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 23:46:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-shoreditch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[City Road Underground Shaft]]></title>
+            <description><![CDATA[<article><h1>City Road Underground Shaft</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8a24ac5-06ce-4332-a73e-a68798cdd768.png"></article>]]></description>
+            <link>https://thegrid.ai/my-shoreditch/city-road-underground-shaft/index.html</link>
+            <guid isPermaLink="false">c2bbc70c-83b6-41b0-a422-d800d3264866</guid>
+            <pubDate>Fri, 25 Mar 2016 23:45:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Equinox Features]]></title>
             <description><![CDATA[<article><h1>Equinox Features</h1><p>Equinox Features provides very high quality photography and video services to the music, film and television industry, newspapers and magazines. We also provide club and special event photography and cover news, social features and provide media relations advice. Our technical team can also advise on data recovery, backup and storage solutions and media and technical logistics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38b7c13b723c5c982b56997f0821f10fb514dd55.jpg"></article>]]></description>
