@@ -17,8 +17,8 @@ keywords:
   - 3xx
   - nuj
 description: 'Equinox Features provides very high quality photography and video services to the music, film and television industry, newspapers and magazines. We also provide club and special event photography and cover news, social features and provide media relations advice. Our technical team can also advise on data recovery, backup and storage solutions and media and technical logistics.'
-datePublished: '2016-03-26T00:16:35.777Z'
-dateModified: '2016-03-26T00:16:32.311Z'
+datePublished: '2016-03-26T00:18:41.442Z'
+dateModified: '2016-03-26T00:18:30.128Z'
 author: []
 related: []
 app_links: []
