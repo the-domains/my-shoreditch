@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[News - Culture - Community - Pictures]]></title>
-        <description><![CDATA[News - Culture - Community - Pictures]]></description>
+        <title><![CDATA[My Shoreditch - News - Culture - Pictures]]></title>
+        <description><![CDATA[My Shoreditch - News - Culture - Pictures]]></description>
         <link>https://thegrid.ai/my-shoreditch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 00:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 00:16:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-shoreditch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blitz Pictures picture agency]]></title>
-            <description><![CDATA[<article><h1>Blitz Pictures picture agency</h1><img src="http://cdn.c.photoshelter.com/img-get2/I0000SyqyOLr22E4/sec=wdfsdfoeflwefms1000ed20160329gbHle_d9Sy4ozzh/fit=350x1024"></article>]]></description>
-            <link>https://thegrid.ai/my-shoreditch/blitz-pictures-picture-agency/index.html</link>
+            <description><![CDATA[<h1>Blitz Pictures picture agency</h1>]]></description>
+            <link>urn:uuid:a4ad6f7e-4d73-473d-9462-19abf9ee4b65</link>
             <guid isPermaLink="false">8f0966f5-e08c-4f83-b601-61703f44416e</guid>
-            <pubDate>Sat, 26 Mar 2016 00:03:12 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 00:10:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[City Road Underground Shaft]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<article><h1>Equinox Features</h1><p>Equinox Features provides very high quality photography and video services to the music, film and television industry, newspapers and magazines. We also provide club and special event photography and cover news, social features and provide media relations advice. Our technical team can also advise on data recovery, backup and storage solutions and media and technical logistics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38b7c13b723c5c982b56997f0821f10fb514dd55.jpg"></article>]]></description>
             <link>http://www.newspics.co/</link>
             <guid isPermaLink="false">931a31bf-c33f-4dae-bfa1-eb3adec4070e</guid>
-            <pubDate>Fri, 25 Mar 2016 23:42:35 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 00:16:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
