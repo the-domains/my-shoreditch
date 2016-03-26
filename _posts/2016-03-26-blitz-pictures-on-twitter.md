@@ -17,8 +17,8 @@ keywords:
   - officialronnies
   - '2015'
 description: 'The latest Tweets from Blitz Pictures Ltd. (@blitzpictures). Celebrity photographer. Picture agency based in London, UK, specialising in celebrity pictures. London'
-datePublished: '2016-03-26T00:29:44.897Z'
-dateModified: '2016-03-26T00:29:34.998Z'
+datePublished: '2016-03-26T00:34:45.416Z'
+dateModified: '2016-03-26T00:34:43.227Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/2437160222/z2sky5n4d8jiapurptf7_400x400.png'
