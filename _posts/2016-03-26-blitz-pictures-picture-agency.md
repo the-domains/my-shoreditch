@@ -1,22 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:a4ad6f7e-4d73-473d-9462-19abf9ee4b65'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-26T00:10:31.786Z'
+dateModified: '2016-03-26T00:10:21.928Z'
 author: []
-datePublished: '2016-03-26T00:03:12.965Z'
-publisher:
-  domain: ''
-  name: ''
 title: Blitz Pictures picture agency
-dateModified: '2016-03-26T00:02:20.791Z'
 sourcePath: _posts/2016-03-26-blitz-pictures-picture-agency.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: blitz-pictures-picture-agency/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Blitz Pictures picture agency
-
-<article style=""><h1>Blitz Pictures http://blitz.photoshelter.com/#!/index</h1><img src="http://cdn.c.photoshelter.com/img-get2/I0000SyqyOLr22E4/sec=wdfsdfoeflwefms1000ed20160329gbHle_d9Sy4ozzh/fit=350x1024" /></article>
