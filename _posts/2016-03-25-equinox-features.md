@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.newspics.co'
-  name: 'Equinox Features | News Pictures | Celebrity Pictures | Picture Agency'
-  favicon: 'http://www.newspics.co/img/s11/v35/u758686588-o153213854-81.ico'
-  domain: www.newspics.co
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.newspics.co/'
+inLanguage: en
+starred: false
 keywords:
   - photography
   - providing
@@ -18,21 +17,24 @@ keywords:
   - 3xx
   - nuj
 description: 'Equinox Features provides very high quality photography and video services to the music, film and television industry, newspapers and magazines. We also provide club and special event photography and cover news, social features and provide media relations advice. Our technical team can also advise on data recovery, backup and storage solutions and media and technical logistics.'
-inLanguage: en
+datePublished: '2016-03-26T00:16:35.777Z'
+dateModified: '2016-03-26T00:16:32.311Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.newspics.co/'
 title: Equinox Features
-datePublished: '2016-03-25T23:42:35.445Z'
-dateModified: '2016-03-25T23:41:52.149Z'
 sourcePath: _posts/2016-03-25-equinox-features.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'Equinox Features | News Pictures | Celebrity Pictures | Picture Agency'
+  domain: www.newspics.co
+  url: 'http://www.newspics.co'
+  favicon: 'http://www.newspics.co/img/s11/v35/u758686588-o153213854-81.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 # Equinox Features
 
-<article style=""><h1>Equinox Features | News Pictures | Celebrity Pictures | Picture Agency</h1><p>Equinox Features provides very high quality photography and video services to the music, film and television industry, newspapers and magazines. We also provide club and special event photography and cover news, social features and provide media relations advice. Our technical team can also advise on data recovery, backup and storage solutions and media and technical logistics.</p><img src="http://cdn.zenfolio.net/img/s4/v12/u188845952-o153213854-111.jpg" /></article>
+<article style=""><h1>Equinox Features | News Pictures | Celebrity Pictures | Picture Agency</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38b7c13b723c5c982b56997f0821f10fb514dd55.jpg" /></article>
