@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: News - Culture - Community - Pictures
+title: My ShoreditchNews - Culture - Pictures
 cta:
   domain: null
   bucket: null
